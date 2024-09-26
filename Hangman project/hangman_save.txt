@@ -1,0 +1,7 @@
+bu
+1
+hangman
+hangman
+6
+5
+a c e g h l m n o p 

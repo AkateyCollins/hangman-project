@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1721394024 source:c:\users\don bullion\desktop\python\code block projects\hangman project\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<fstream>
+	<vector>
+	<random>
+	<ctime>
+
